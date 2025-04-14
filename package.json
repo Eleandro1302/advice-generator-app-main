@@ -1,0 +1,22 @@
+{
+  "name": "advice-generator-app",
+  "version": "1.0.0",
+  "description": "A simple advice generator app that fetches random advice from the Advice Slip API.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined yet.'"
+  },
+  "keywords": [
+    "advice",
+    "generator",
+    "frontend",
+    "mentor"
+  ],
+  "author": "Eleandro",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}

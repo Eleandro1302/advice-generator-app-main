@@ -3,11 +3,11 @@ body {
     background-color: hsl(218, 23%, 16%);
     display: flex;
     flex-direction: column;
-    justify-content: center; /* Centraliza verticalmente */
-    align-items: center; /* Centraliza horizontalmente */
-    height: 100vh; /* Garante que o corpo ocupe 100% da altura da janela */
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
     margin: 0;
-    overflow: hidden; /* Remove a possibilidade de scroll */
+    overflow: hidden; 
 }
 
 .container {

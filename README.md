@@ -1,6 +1,6 @@
 # Advice Generator App
 
-![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Advice generator app coding challenge](./images/desktop-preview.jpg.png)
 
 ## Welcome! 👋
 
@@ -47,10 +47,10 @@ I would like to thank [Frontend Mentor](https://www.frontendmentor.io) for provi
 
 # Aplicativo Gerador de Conselhos
 
-![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Advice generator app coding challenge](./images/desktop-preview.jpg.png)
 
 ## Bem-vindo! 👋
-
+0
 Obrigado por conferir este projeto de front-end.
 
 Este é um aplicativo gerador de conselhos que utiliza a [Advice Slip API](https://api.adviceslip.com/advice) para fornecer conselhos aleatórios aos usuários. O design foi inspirado em um desafio do [Frontend Mentor](https://www.frontendmentor.io).
